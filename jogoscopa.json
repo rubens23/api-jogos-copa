@@ -1,0 +1,112 @@
+[
+  {
+    "descricao": "Copa do Mundo 2022",
+    "estadio":{
+      "nome": "Al Bayt",
+      "data_jogo": "20/11/2022",
+      "horario_jogo": "13:00",
+      "fase": "Fase de Grupos",
+      "rodada": 1,
+      "grupo": "A"
+    },
+    "mandante":{
+      "nome": "Catar",
+      "posicao_ranking": 50,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/qa.webp"
+    },
+    "visitante":{
+      "nome": "Equador",
+      "posicao_ranking": 44,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/ec.webp"
+    },
+    "jogo":{
+      "placar_mandante": "",
+      "placar_visitante": "",
+      "autores_gols_time_mandante":{"nome_jogador": "", "minuto_gol": ""},
+      "autores_gols_time_visitante":{"nome_jogador": "", "minuto_gol": ""}
+    }
+  },
+  {
+    "descricao": "Copa do Mundo 2022",
+    "estadio":{
+      "nome": "Al Thumama",
+      "data_jogo": "21/11/2022",
+      "horario_jogo": "13:00",
+      "fase": "Fase de Grupos",
+      "rodada": 1,
+      "grupo": "A"
+    },
+    "mandante":{
+      "nome": "Senegal",
+      "posicao_ranking": 18,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/sn.webp"
+    },
+    "visitante":{
+      "nome": "Holanda",
+      "posicao_ranking": 8,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/nl.webp"
+    },
+     "jogo":{
+      "placar_mandante": "",
+      "placar_visitante": "",
+      "autores_gols_time_mandante":{"nome_jogador": "", "minuto_gol": ""},
+      "autores_gols_time_visitante":{"nome_jogador": "", "minuto_gol": ""}
+    }
+  },
+  {
+    "descricao": "Copa do Mundo 2022",
+    "estadio":{
+      "nome": "Internacional Khalifa",
+      "data_jogo": "21/11/2022",
+      "horario_jogo": "10:00",
+      "fase": "Fase de Grupos",
+      "rodada": 1,
+      "grupo": "B"
+    },
+    "mandante":{
+      "nome": "Inglaterra",
+      "posicao_ranking": 5,
+      "imagem": "https://img.freepik.com/vetores-premium/bandeira-do-pais-da-inglaterra_682791-98.jpg"
+    },
+    "visitante":{
+      "nome": "Irã",
+      "posicao_ranking": 20,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/ir.webp"
+    },
+     "jogo":{
+      "placar_mandante": "",
+      "placar_visitante": "",
+      "autores_gols_time_mandante":{"nome_jogador": "", "minuto_gol": ""},
+      "autores_gols_time_visitante":{"nome_jogador": "", "minuto_gol": ""}
+    }
+  },
+  {
+    "descricao": "Copa do Mundo 2022",
+    "estadio":{
+      "nome": "Ahmad Bin Ali",
+      "data_jogo": "21/11/2022",
+      "horario_jogo": "16:00",
+      "fase": "Fase de Grupos",
+      "rodada": 1,
+      "grupo": "B"
+    },
+    "mandante":{
+      "nome": "Estados Unidos",
+      "posicao_ranking": 16,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/us.webp"
+    },
+    "visitante":{
+      "nome": "País de Gales",
+      "posicao_ranking": 19,
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flag_of_Wales.svg/255px-Flag_of_Wales.svg.png"
+    },
+     "jogo":{
+      "placar_mandante": "",
+      "placar_visitante": "",
+      "autores_gols_time_mandante":{"nome_jogador": "", "minuto_gol": ""},
+      "autores_gols_time_visitante":{"nome_jogador": "", "minuto_gol": ""}
+    }
+  }
+
+  
+]
