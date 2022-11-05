@@ -12,16 +12,16 @@
     "mandante":{
       "nome": "Catar",
       "posicao_ranking": 50,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/qa.webp"
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/qa.webp",
+      "placar": ""
     },
     "visitante":{
       "nome": "Equador",
       "posicao_ranking": 44,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/ec.webp"
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/ec.webp",
+      "placar": ""
     },
-    "jogo":{
-      "placar_mandante": "",
-      "placar_visitante": "",
+    "jogo":{     
       "autores_gols_time_mandante":{"nome_jogador": "", "minuto_gol": ""},
       "autores_gols_time_visitante":{"nome_jogador": "", "minuto_gol": ""}
     }
@@ -39,16 +39,16 @@
     "mandante":{
       "nome": "Senegal",
       "posicao_ranking": 18,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/sn.webp"
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/sn.webp",
+       "placar": ""
     },
     "visitante":{
       "nome": "Holanda",
       "posicao_ranking": 8,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/nl.webp"
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/nl.webp",
+       "placar": ""
     },
      "jogo":{
-      "placar_mandante": "",
-      "placar_visitante": "",
       "autores_gols_time_mandante":{"nome_jogador": "", "minuto_gol": ""},
       "autores_gols_time_visitante":{"nome_jogador": "", "minuto_gol": ""}
     }
@@ -66,16 +66,16 @@
     "mandante":{
       "nome": "Inglaterra",
       "posicao_ranking": 5,
-      "imagem": "https://img.freepik.com/vetores-premium/bandeira-do-pais-da-inglaterra_682791-98.jpg"
+      "imagem": "https://img.freepik.com/vetores-premium/bandeira-do-pais-da-inglaterra_682791-98.jpg",
+       "placar": ""
     },
     "visitante":{
       "nome": "Irã",
       "posicao_ranking": 20,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/ir.webp"
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/ir.webp",
+       "placar": ""
     },
      "jogo":{
-      "placar_mandante": "",
-      "placar_visitante": "",
       "autores_gols_time_mandante":{"nome_jogador": "", "minuto_gol": ""},
       "autores_gols_time_visitante":{"nome_jogador": "", "minuto_gol": ""}
     }
@@ -93,16 +93,16 @@
     "mandante":{
       "nome": "Estados Unidos",
       "posicao_ranking": 16,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/us.webp"
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/us.webp",
+       "placar": ""
     },
     "visitante":{
       "nome": "País de Gales",
       "posicao_ranking": 19,
-      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flag_of_Wales.svg/255px-Flag_of_Wales.svg.png"
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flag_of_Wales.svg/255px-Flag_of_Wales.svg.png",
+       "placar": ""
     },
      "jogo":{
-      "placar_mandante": "",
-      "placar_visitante": "",
       "autores_gols_time_mandante":{"nome_jogador": "", "minuto_gol": ""},
       "autores_gols_time_visitante":{"nome_jogador": "", "minuto_gol": ""}
     }
