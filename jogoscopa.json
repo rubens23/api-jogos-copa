@@ -13,7 +13,7 @@
       "nome": "Catar",
       "posicao_ranking": 50,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/qa.webp",
-      "placar": 1
+      "placar": 2
     },
     "visitante":{
       "nome": "Equador",
@@ -22,8 +22,9 @@
       "placar": 1
     },
     "jogo":{     
-      "autores_gols_time_mandante":{"nome_jogador": null, "minuto_gol": null},
-      "autores_gols_time_visitante":{"nome_jogador": null, "minuto_gol": null}
+      "autores_gols_time_mandante":[{"nome_jogador": "joao", "minuto_gol": 10},
+                                   {"nome_jogador": "jonas", "minuto_gol": 23}],
+      "autores_gols_time_visitante":[{"nome_jogador": "arias", "minuto_gol": 56}]
     }
   },
   {
