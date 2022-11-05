@@ -19,7 +19,7 @@
       "nome": "Equador",
       "posicao_ranking": 44,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/ec.webp",
-      "placar": 0
+      "placar": 1
     },
     "jogo":{     
       "autores_gols_time_mandante":{"nome_jogador": null, "minuto_gol": null},
