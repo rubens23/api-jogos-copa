@@ -50,8 +50,8 @@
        "placar": null
     },
      "jogo":{
-      "autores_gols_time_mandante":{"nome_jogador": null, "minuto_gol": null},
-      "autores_gols_time_visitante":{"nome_jogador": null, "minuto_gol": null}
+      "autores_gols_time_mandante":[{"nome_jogador": null, "minuto_gol": null}],
+      "autores_gols_time_visitante":[{"nome_jogador": null, "minuto_gol": null}]
     }
   },
   {
@@ -77,8 +77,8 @@
        "placar": null
     },
      "jogo":{
-      "autores_gols_time_mandante":{"nome_jogador": null, "minuto_gol": null},
-      "autores_gols_time_visitante":{"nome_jogador": null, "minuto_gol": null}
+      "autores_gols_time_mandante":[{"nome_jogador": null, "minuto_gol": null}],
+      "autores_gols_time_visitante":[{"nome_jogador": null, "minuto_gol": null}]
     }
   },
   {
@@ -104,8 +104,8 @@
        "placar": null
     },
      "jogo":{
-      "autores_gols_time_mandante":{"nome_jogador": null, "minuto_gol": null},
-      "autores_gols_time_visitante":{"nome_jogador": null, "minuto_gol": null}
+      "autores_gols_time_mandante":[{"nome_jogador": null, "minuto_gol": null}],
+      "autores_gols_time_visitante":[{"nome_jogador": null, "minuto_gol": null}]
     }
   }
 
