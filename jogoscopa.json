@@ -363,6 +363,90 @@
       "autores_gols_time_mandante":[{"nome_jogador": null, "minuto_gol": null}],
       "autores_gols_time_visitante":[{"nome_jogador": null, "minuto_gol": null}]
     }
+  },
+  {
+    "descricao": "Copa do Mundo 2022",
+    "estadio":{
+      "nome": "Lusail",
+      "data_jogo": "24/11/2022",
+      "horario_jogo": "16:00",
+      "fase": "Fase de Grupos",
+      "rodada": 1,
+      "grupo": "G",
+      "status_jogo": null
+    },
+    "mandante":{
+      "nome": "Brasil",
+      "posicao_ranking": 1,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/br.webp",
+       "placar": null
+    },
+    "visitante":{
+      "nome": "Sérvia",
+      "posicao_ranking": 21,
+      "imagem": "https://www.bandeirasnacionais.com/servia",
+       "placar": null
+    },
+     "jogo":{
+      "autores_gols_time_mandante":[{"nome_jogador": null, "minuto_gol": null}],
+      "autores_gols_time_visitante":[{"nome_jogador": null, "minuto_gol": null}]
+    }
+  },
+  {
+    "descricao": "Copa do Mundo 2022",
+    "estadio":{
+      "nome": "Cidade da Educação",
+      "data_jogo": "24/11/2022",
+      "horario_jogo": "10:00",
+      "fase": "Fase de Grupos",
+      "rodada": 1,
+      "grupo": "H",
+      "status_jogo": null
+    },
+    "mandante":{
+      "nome": "Uruguai",
+      "posicao_ranking": 14,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/uy.webp",
+       "placar": null
+    },
+    "visitante":{
+      "nome": "Coreia do Sul",
+      "posicao_ranking": 28,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/kr.webp",
+       "placar": null
+    },
+     "jogo":{
+      "autores_gols_time_mandante":[{"nome_jogador": null, "minuto_gol": null}],
+      "autores_gols_time_visitante":[{"nome_jogador": null, "minuto_gol": null}]
+    }
+  },
+  {
+    "descricao": "Copa do Mundo 2022",
+    "estadio":{
+      "nome": "974",
+      "data_jogo": "24/11/2022",
+      "horario_jogo": "13:00",
+      "fase": "Fase de Grupos",
+      "rodada": 1,
+      "grupo": "H",
+      "status_jogo": null
+    },
+    "mandante":{
+      "nome": "Portugal",
+      "posicao_ranking": 9,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/pt.webp",
+       "placar": null
+    },
+    "visitante":{
+      "nome": "Gana",
+      "posicao_ranking": 61,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/gh.webp",
+       "placar": null
+    },
+     "jogo":{
+      "autores_gols_time_mandante":[{"nome_jogador": null, "minuto_gol": null}],
+      "autores_gols_time_visitante":[{"nome_jogador": null, "minuto_gol": null}]
+    }
   }
 
 
