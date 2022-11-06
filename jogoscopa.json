@@ -727,7 +727,148 @@
       "autores_gols_time_mandante":[{"nome_jogador": null, "minuto_gol": null}],
       "autores_gols_time_visitante":[{"nome_jogador": null, "minuto_gol": null}]
     }
+  },
+  {
+    "descricao": "Copa do Mundo 2022",
+    "estadio":{
+      "nome": "Al Thumama",
+      "data_jogo": "27/11/2022",
+      "horario_jogo": "10:00",
+      "fase": "Fase de Grupos",
+      "rodada": 2,
+      "grupo": "F",
+      "status_jogo": null
+    },
+    "mandante":{
+      "nome": "Bélgica",
+      "posicao_ranking": 2,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/be.webp",
+       "placar": null
+    },
+    "visitante":{
+      "nome": "Marrocos",
+      "posicao_ranking": 22,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/ma.webp",
+       "placar": null
+    },
+     "jogo":{
+      "autores_gols_time_mandante":[{"nome_jogador": null, "minuto_gol": null}],
+      "autores_gols_time_visitante":[{"nome_jogador": null, "minuto_gol": null}]
+    }
+  },
+  {
+    "descricao": "Copa do Mundo 2022",
+    "estadio":{
+      "nome": "Internacional Khalifa",
+      "data_jogo": "27/11/2022",
+      "horario_jogo": "13:00",
+      "fase": "Fase de Grupos",
+      "rodada": 2,
+      "grupo": "F",
+      "status_jogo": null
+    },
+    "mandante":{
+      "nome": "Croácia",
+      "posicao_ranking": 12,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/hr.webp",
+       "placar": null
+    },
+    "visitante":{
+      "nome": "Canadá",
+      "posicao_ranking": 41,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/ca.webp",
+       "placar": null
+    },
+     "jogo":{
+      "autores_gols_time_mandante":[{"nome_jogador": null, "minuto_gol": null}],
+      "autores_gols_time_visitante":[{"nome_jogador": null, "minuto_gol": null}]
+    }
+  },
+  {
+    "descricao": "Copa do Mundo 2022",
+    "estadio":{
+      "nome": "Al Janoub",
+      "data_jogo": "28/11/2022",
+      "horario_jogo": "07:00",
+      "fase": "Fase de Grupos",
+      "rodada": 2,
+      "grupo": "G",
+      "status_jogo": null
+    },
+    "mandante":{
+      "nome": "Camarões",
+      "posicao_ranking": 43,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/cm.webp",
+       "placar": null
+    },
+    "visitante":{
+      "nome": "Sérvia",
+      "posicao_ranking": 21,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/rs.webp",
+       "placar": null
+    },
+     "jogo":{
+      "autores_gols_time_mandante":[{"nome_jogador": null, "minuto_gol": null}],
+      "autores_gols_time_visitante":[{"nome_jogador": null, "minuto_gol": null}]
+    }
+  },
+   {
+    "descricao": "Copa do Mundo 2022",
+    "estadio":{
+      "nome": "974",
+      "data_jogo": "28/11/2022",
+      "horario_jogo": "13:00",
+      "fase": "Fase de Grupos",
+      "rodada": 2,
+      "grupo": "G",
+      "status_jogo": null
+    },
+    "mandante":{
+      "nome": "Brasil",
+      "posicao_ranking": 1,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/br.webp",
+       "placar": null
+    },
+    "visitante":{
+      "nome": "Suíça",
+      "posicao_ranking": 15,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/ch.webp",
+       "placar": null
+    },
+     "jogo":{
+      "autores_gols_time_mandante":[{"nome_jogador": null, "minuto_gol": null}],
+      "autores_gols_time_visitante":[{"nome_jogador": null, "minuto_gol": null}]
+    }
+  },
+  {
+    "descricao": "Copa do Mundo 2022",
+    "estadio":{
+      "nome": "Cidade da Educação",
+      "data_jogo": "28/11/2022",
+      "horario_jogo": "10:00",
+      "fase": "Fase de Grupos",
+      "rodada": 2,
+      "grupo": "H",
+      "status_jogo": null
+    },
+    "mandante":{
+      "nome": "Coreia do Sul",
+      "posicao_ranking": 28,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/kr.webp",
+       "placar": null
+    },
+    "visitante":{
+      "nome": "Gana",
+      "posicao_ranking": 61,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/gh.webp",
+       "placar": null
+    },
+     "jogo":{
+      "autores_gols_time_mandante":[{"nome_jogador": null, "minuto_gol": null}],
+      "autores_gols_time_visitante":[{"nome_jogador": null, "minuto_gol": null}]
+    }
   }
+
 
 
 
