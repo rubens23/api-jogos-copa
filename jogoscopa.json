@@ -7,7 +7,8 @@
       "horario_jogo": "13:00",
       "fase": "Fase de Grupos",
       "rodada": 1,
-      "grupo": "A"
+      "grupo": "A",
+      "status_jogo": null
     },
     "mandante":{
       "nome": "Catar",
@@ -35,7 +36,8 @@
       "horario_jogo": "13:00",
       "fase": "Fase de Grupos",
       "rodada": 1,
-      "grupo": "A"
+      "grupo": "A",
+      "status_jogo": null
     },
     "mandante":{
       "nome": "Senegal",
@@ -62,7 +64,8 @@
       "horario_jogo": "10:00",
       "fase": "Fase de Grupos",
       "rodada": 1,
-      "grupo": "B"
+      "grupo": "B",
+      "status_jogo": null
     },
     "mandante":{
       "nome": "Inglaterra",
@@ -89,7 +92,8 @@
       "horario_jogo": "16:00",
       "fase": "Fase de Grupos",
       "rodada": 1,
-      "grupo": "B"
+      "grupo": "B",
+      "status_jogo": null
     },
     "mandante":{
       "nome": "Estados Unidos",
