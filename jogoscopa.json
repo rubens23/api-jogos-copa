@@ -867,6 +867,34 @@
       "autores_gols_time_mandante":[{"nome_jogador": null, "minuto_gol": null}],
       "autores_gols_time_visitante":[{"nome_jogador": null, "minuto_gol": null}]
     }
+  },
+  {
+    "descricao": "Copa do Mundo 2022",
+    "estadio":{
+      "nome": "Lusail",
+      "data_jogo": "28/11/2022",
+      "horario_jogo": "16:00",
+      "fase": "Fase de Grupos",
+      "rodada": 2,
+      "grupo": "H",
+      "status_jogo": null
+    },
+    "mandante":{
+      "nome": "Portugal",
+      "posicao_ranking": 9,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/pt.webp",
+       "placar": null
+    },
+    "visitante":{
+      "nome": "Uruguai",
+      "posicao_ranking": 14,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/uy.webp",
+       "placar": null
+    },
+     "jogo":{
+      "autores_gols_time_mandante":[{"nome_jogador": null, "minuto_gol": null}],
+      "autores_gols_time_visitante":[{"nome_jogador": null, "minuto_gol": null}]
+    }
   }
 
 
