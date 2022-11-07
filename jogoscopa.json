@@ -49,17 +49,17 @@
       "nome": "Senegal",
       "posicao_ranking": 18,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/sn.webp",
-       "placar": null
+       "placar": 0
     },
     "visitante":{
       "nome": "Holanda",
       "posicao_ranking": 8,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/nl.webp",
-       "placar": null
+       "placar": 1
     },
      "jogo":{
       "autores_gols_time_mandante":[{"nome_jogador": null, "minuto_gol": null}],
-      "autores_gols_time_visitante":[{"nome_jogador": null, "minuto_gol": null}]
+      "autores_gols_time_visitante":[{"nome_jogador": "Dirk Kuyt", "minuto_gol": 3}]
     }
   },
   {
