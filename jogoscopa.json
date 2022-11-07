@@ -895,7 +895,456 @@
       "autores_gols_time_mandante":[{"nome_jogador": null, "minuto_gol": null}],
       "autores_gols_time_visitante":[{"nome_jogador": null, "minuto_gol": null}]
     }
+  },
+  {
+    "descricao": "Copa do Mundo 2022",
+    "estadio":{
+      "nome": "Al Bayt",
+      "data_jogo": "29/11/2022",
+      "horario_jogo": "12:00",
+      "fase": "Fase de Grupos",
+      "rodada": 3,
+      "grupo": "A",
+      "status_jogo": null
+    },
+    "mandante":{
+      "nome": "Holanda",
+      "posicao_ranking": 8,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/nl.webp",
+       "placar": null
+    },
+    "visitante":{
+      "nome": "Catar",
+      "posicao_ranking": 50,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/qa.webp",
+       "placar": null
+    },
+     "jogo":{
+      "autores_gols_time_mandante":[{"nome_jogador": null, "minuto_gol": null}],
+      "autores_gols_time_visitante":[{"nome_jogador": null, "minuto_gol": null}]
+    }
+  },
+   {
+    "descricao": "Copa do Mundo 2022",
+    "estadio":{
+      "nome": "Internacional Khalifa",
+      "data_jogo": "29/11/2022",
+      "horario_jogo": "12:00",
+      "fase": "Fase de Grupos",
+      "rodada": 3,
+      "grupo": "A",
+      "status_jogo": null
+    },
+    "mandante":{
+      "nome": "Equador",
+      "posicao_ranking": 44,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/ec.webp",
+       "placar": null
+    },
+    "visitante":{
+      "nome": "Senegal",
+      "posicao_ranking": 18,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/sn.webp",
+       "placar": null
+    },
+     "jogo":{
+      "autores_gols_time_mandante":[{"nome_jogador": null, "minuto_gol": null}],
+      "autores_gols_time_visitante":[{"nome_jogador": null, "minuto_gol": null}]
+    }
+  },
+   {
+    "descricao": "Copa do Mundo 2022",
+    "estadio":{
+      "nome": "Al Thumama",
+      "data_jogo": "29/11/2022",
+      "horario_jogo": "16:00",
+      "fase": "Fase de Grupos",
+      "rodada": 3,
+      "grupo": "B",
+      "status_jogo": null
+    },
+    "mandante":{
+      "nome": "Irã",
+      "posicao_ranking": 20,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/ir.webp",
+       "placar": null
+    },
+    "visitante":{
+      "nome": "Estados Unidos",
+      "posicao_ranking": 16,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/us.webp",
+       "placar": null
+    },
+     "jogo":{
+      "autores_gols_time_mandante":[{"nome_jogador": null, "minuto_gol": null}],
+      "autores_gols_time_visitante":[{"nome_jogador": null, "minuto_gol": null}]
+    }
+  },
+   {
+    "descricao": "Copa do Mundo 2022",
+    "estadio":{
+      "nome": "Ahmad Bin Ali",
+      "data_jogo": "29/11/2022",
+      "horario_jogo": "16:00",
+      "fase": "Fase de Grupos",
+      "rodada": 3,
+      "grupo": "B",
+      "status_jogo": null
+    },
+    "mandante":{
+      "nome": "País de Gales",
+      "posicao_ranking": 19,
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flag_of_Wales.svg/255px-Flag_of_Wales.svg.png",
+       "placar": null
+    },
+    "visitante":{
+      "nome": "Inglaterra",
+      "posicao_ranking": 5,
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/255px-Flag_of_England.svg.png",
+       "placar": null
+    },
+     "jogo":{
+      "autores_gols_time_mandante":[{"nome_jogador": null, "minuto_gol": null}],
+      "autores_gols_time_visitante":[{"nome_jogador": null, "minuto_gol": null}]
+    }
+  },
+  {
+    "descricao": "Copa do Mundo 2022",
+    "estadio":{
+      "nome": "974",
+      "data_jogo": "30/11/2022",
+      "horario_jogo": "16:00",
+      "fase": "Fase de Grupos",
+      "rodada": 3,
+      "grupo": "C",
+      "status_jogo": null
+    },
+    "mandante":{
+      "nome": "Polônia",
+      "posicao_ranking": 26,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/pl.webp",
+       "placar": null
+    },
+    "visitante":{
+      "nome": "Argentina",
+      "posicao_ranking": 3,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/ar.webp",
+       "placar": null
+    },
+     "jogo":{
+      "autores_gols_time_mandante":[{"nome_jogador": null, "minuto_gol": null}],
+      "autores_gols_time_visitante":[{"nome_jogador": null, "minuto_gol": null}]
+    }
+  },
+   {
+    "descricao": "Copa do Mundo 2022",
+    "estadio":{
+      "nome": "Lusail",
+      "data_jogo": "30/11/2022",
+      "horario_jogo": "16:00",
+      "fase": "Fase de Grupos",
+      "rodada": 3,
+      "grupo": "C",
+      "status_jogo": null
+    },
+    "mandante":{
+      "nome": "Arábia Saudita",
+      "posicao_ranking": 51,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/sa.webp",
+       "placar": null
+    },
+    "visitante":{
+      "nome": "México",
+      "posicao_ranking": 13,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/mx.webp",
+       "placar": null
+    },
+     "jogo":{
+      "autores_gols_time_mandante":[{"nome_jogador": null, "minuto_gol": null}],
+      "autores_gols_time_visitante":[{"nome_jogador": null, "minuto_gol": null}]
+    }
+  },
+  {
+    "descricao": "Copa do Mundo 2022",
+    "estadio":{
+      "nome": "Cidade da Educação",
+      "data_jogo": "30/11/2022",
+      "horario_jogo": "12:00",
+      "fase": "Fase de Grupos",
+      "rodada": 3,
+      "grupo": "D",
+      "status_jogo": null
+    },
+    "mandante":{
+      "nome": "Tunísia",
+      "posicao_ranking": 30,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/tn.webp",
+       "placar": null
+    },
+    "visitante":{
+      "nome": "França",
+      "posicao_ranking": 4,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/fr.webp",
+       "placar": null
+    },
+     "jogo":{
+      "autores_gols_time_mandante":[{"nome_jogador": null, "minuto_gol": null}],
+      "autores_gols_time_visitante":[{"nome_jogador": null, "minuto_gol": null}]
+    }
+  },
+  {
+    "descricao": "Copa do Mundo 2022",
+    "estadio":{
+      "nome": "Al Janoub",
+      "data_jogo": "30/11/2022",
+      "horario_jogo": "12:00",
+      "fase": "Fase de Grupos",
+      "rodada": 3,
+      "grupo": "D",
+      "status_jogo": null
+    },
+    "mandante":{
+      "nome": "Austrália",
+      "posicao_ranking": 38,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/au.webp",
+       "placar": null
+    },
+    "visitante":{
+      "nome": "Dinamarca",
+      "posicao_ranking": 10,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/dk.webp",
+       "placar": null
+    },
+     "jogo":{
+      "autores_gols_time_mandante":[{"nome_jogador": null, "minuto_gol": null}],
+      "autores_gols_time_visitante":[{"nome_jogador": null, "minuto_gol": null}]
+    }
+  },
+  {
+    "descricao": "Copa do Mundo 2022",
+    "estadio":{
+      "nome": "Internacional Khalifa",
+      "data_jogo": "01/12/2022",
+      "horario_jogo": "16:00",
+      "fase": "Fase de Grupos",
+      "rodada": 3,
+      "grupo": "E",
+      "status_jogo": null
+    },
+    "mandante":{
+      "nome": "Japão",
+      "posicao_ranking": 24,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/jp.webp",
+       "placar": null
+    },
+    "visitante":{
+      "nome": "Espanha",
+      "posicao_ranking": 7,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/es.webp",
+       "placar": null
+    },
+     "jogo":{
+      "autores_gols_time_mandante":[{"nome_jogador": null, "minuto_gol": null}],
+      "autores_gols_time_visitante":[{"nome_jogador": null, "minuto_gol": null}]
+    }
+  },
+  {
+    "descricao": "Copa do Mundo 2022",
+    "estadio":{
+      "nome": "Al Bayt",
+      "data_jogo": "01/12/2022",
+      "horario_jogo": "16:00",
+      "fase": "Fase de Grupos",
+      "rodada": 3,
+      "grupo": "E",
+      "status_jogo": null
+    },
+    "mandante":{
+      "nome": "Costa Rica",
+      "posicao_ranking": 31,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/cr.webp",
+       "placar": null
+    },
+    "visitante":{
+      "nome": "Alemanha",
+      "posicao_ranking": 11,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/de.webp",
+       "placar": null
+    },
+     "jogo":{
+      "autores_gols_time_mandante":[{"nome_jogador": null, "minuto_gol": null}],
+      "autores_gols_time_visitante":[{"nome_jogador": null, "minuto_gol": null}]
+    }
+  },
+  {
+    "descricao": "Copa do Mundo 2022",
+    "estadio":{
+      "nome": "Ahmad Bin Ali",
+      "data_jogo": "01/12/2022",
+      "horario_jogo": "12:00",
+      "fase": "Fase de Grupos",
+      "rodada": 3,
+      "grupo": "F",
+      "status_jogo": null
+    },
+    "mandante":{
+      "nome": "Croácia",
+      "posicao_ranking": 12,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/hr.webp",
+       "placar": null
+    },
+    "visitante":{
+      "nome": "Bélgica",
+      "posicao_ranking": 2,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/be.webp",
+       "placar": null
+    },
+     "jogo":{
+      "autores_gols_time_mandante":[{"nome_jogador": null, "minuto_gol": null}],
+      "autores_gols_time_visitante":[{"nome_jogador": null, "minuto_gol": null}]
+    }
+  },
+  {
+    "descricao": "Copa do Mundo 2022",
+    "estadio":{
+      "nome": "Al Thumama",
+      "data_jogo": "01/12/2022",
+      "horario_jogo": "12:00",
+      "fase": "Fase de Grupos",
+      "rodada": 3,
+      "grupo": "F",
+      "status_jogo": null
+    },
+    "mandante":{
+      "nome": "Canadá",
+      "posicao_ranking": 41,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/ca.webp",
+       "placar": null
+    },
+    "visitante":{
+      "nome": "Marrocos",
+      "posicao_ranking": 22,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/ma.webp",
+       "placar": null
+    },
+     "jogo":{
+      "autores_gols_time_mandante":[{"nome_jogador": null, "minuto_gol": null}],
+      "autores_gols_time_visitante":[{"nome_jogador": null, "minuto_gol": null}]
+    }
+  },
+   {
+    "descricao": "Copa do Mundo 2022",
+    "estadio":{
+      "nome": "Lusail",
+      "data_jogo": "02/12/2022",
+      "horario_jogo": "16:00",
+      "fase": "Fase de Grupos",
+      "rodada": 3,
+      "grupo": "G",
+      "status_jogo": null
+    },
+    "mandante":{
+      "nome": "Camarões",
+      "posicao_ranking": 43,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/cm.webp",
+       "placar": null
+    },
+    "visitante":{
+      "nome": "Brasil",
+      "posicao_ranking": 1,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/br.webp",
+       "placar": null
+    },
+     "jogo":{
+      "autores_gols_time_mandante":[{"nome_jogador": null, "minuto_gol": null}],
+      "autores_gols_time_visitante":[{"nome_jogador": null, "minuto_gol": null}]
+    }
+  },
+   {
+    "descricao": "Copa do Mundo 2022",
+    "estadio":{
+      "nome": "974",
+      "data_jogo": "02/12/2022",
+      "horario_jogo": "16:00",
+      "fase": "Fase de Grupos",
+      "rodada": 3,
+      "grupo": "G",
+      "status_jogo": null
+    },
+    "mandante":{
+      "nome": "Sérvia",
+      "posicao_ranking": 21,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/rs.webp",
+       "placar": null
+    },
+    "visitante":{
+      "nome": "Suíça",
+      "posicao_ranking": 15,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/ch.webp",
+       "placar": null
+    },
+     "jogo":{
+      "autores_gols_time_mandante":[{"nome_jogador": null, "minuto_gol": null}],
+      "autores_gols_time_visitante":[{"nome_jogador": null, "minuto_gol": null}]
+    }
+  },
+   {
+    "descricao": "Copa do Mundo 2022",
+    "estadio":{
+      "nome": "Cidade da Educação",
+      "data_jogo": "02/12/2022",
+      "horario_jogo": "12:00",
+      "fase": "Fase de Grupos",
+      "rodada": 3,
+      "grupo": "H",
+      "status_jogo": null
+    },
+    "mandante":{
+      "nome": "Coreia do Sul",
+      "posicao_ranking": 28,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/kr.webp",
+       "placar": null
+    },
+    "visitante":{
+      "nome": "Portugal",
+      "posicao_ranking": 9,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/pt.webp",
+       "placar": null
+    },
+     "jogo":{
+      "autores_gols_time_mandante":[{"nome_jogador": null, "minuto_gol": null}],
+      "autores_gols_time_visitante":[{"nome_jogador": null, "minuto_gol": null}]
+    }
+  },
+   {
+    "descricao": "Copa do Mundo 2022",
+    "estadio":{
+      "nome": "Al Janoub",
+      "data_jogo": "02/12/2022",
+      "horario_jogo": "12:00",
+      "fase": "Fase de Grupos",
+      "rodada": 3,
+      "grupo": "H",
+      "status_jogo": null
+    },
+    "mandante":{
+      "nome": "Gana",
+      "posicao_ranking": 61,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/gh.webp",
+       "placar": null
+    },
+    "visitante":{
+      "nome": "Uruguai",
+      "posicao_ranking": 14,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/uy.webp",
+       "placar": null
+    },
+     "jogo":{
+      "autores_gols_time_mandante":[{"nome_jogador": null, "minuto_gol": null}],
+      "autores_gols_time_visitante":[{"nome_jogador": null, "minuto_gol": null}]
+    }
   }
+  
 
 
 
