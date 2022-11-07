@@ -25,7 +25,8 @@
     "jogo":{     
       "autores_gols_time_mandante":[{"nome_jogador": "joao", "minuto_gol": 10},
                                    {"nome_jogador": "jonas", "minuto_gol": 23},
-                                    {"nome_jogador": "abdul", "minuto_gol": 77}],
+                                    {"nome_jogador": "abdul", "minuto_gol": 77},
+                                    {"nome_jogador": "abdul", "minuto_gol": 87}],
       "autores_gols_time_visitante":[{"nome_jogador": "arias", "minuto_gol": 56}]
     }
   },
