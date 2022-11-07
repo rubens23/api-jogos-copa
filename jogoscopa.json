@@ -29,7 +29,8 @@
                                     {"nome_jogador": "abdul", "minuto_gol": 87},
                                    {"nome_jogador": "abdul", "minuto_gol": 87}],
       "autores_gols_time_visitante":[{"nome_jogador": "arias", "minuto_gol": 56},
-                                    {"nome_jogador": "quinteros", "minuto_gol": 90}]
+                                    {"nome_jogador": "quinteros", "minuto_gol": 90},
+                                    {"nome_jogador": "jimenez", "minuto_gol": 93}]
     }
   },
   {
