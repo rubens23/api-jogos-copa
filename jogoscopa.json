@@ -665,16 +665,16 @@
       "nome": "França",
       "posicao_ranking": 4,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/fr.webp",
-       "placar": null
+       "placar": 1
     },
     "visitante":{
       "nome": "Dinamarca",
       "posicao_ranking": 10,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/dk.webp",
-       "placar": null
+       "placar": 0
     },
      "jogo":{
-      "autores_gols_time_mandante":[{"nome_jogador": null, "minuto_gol": null}],
+      "autores_gols_time_mandante":[{"nome_jogador": "Kyllian Mbappe", "minuto_gol": 39}],
       "autores_gols_time_visitante":[{"nome_jogador": null, "minuto_gol": null}]
     }
   },
