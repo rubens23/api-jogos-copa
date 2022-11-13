@@ -20,7 +20,7 @@
       "nome": "Equador",
       "posicao_ranking": 44,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/ec.webp",
-      "placar": 5
+      "placar": 6
     },
     "jogo":{     
       "autores_gols_time_mandante":[{"nome_jogador": "joao", "minuto_gol": 10},
@@ -32,7 +32,8 @@
                                     {"nome_jogador": "quinteros", "minuto_gol": 90},
                                     {"nome_jogador": "jimenez", "minuto_gol": 93},
                                     {"nome_jogador": "jimenez", "minuto_gol": 94},
-                                    {"nome_jogador": "jimenez", "minuto_gol": 95}]
+                                    {"nome_jogador": "jimenez", "minuto_gol": 95},
+                                    {"nome_jogador": "jimenez", "minuto_gol": 96}]
     }
   },
   {
