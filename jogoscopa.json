@@ -14,26 +14,19 @@
       "nome": "Catar",
       "posicao_ranking": 50,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/qa.webp",
-      "placar": 5
+      "placar": 0
     },
     "visitante":{
       "nome": "Equador",
       "posicao_ranking": 44,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/ec.webp",
-      "placar": 6
+      "placar": 2
     },
     "jogo":{     
-      "autores_gols_time_mandante":[{"nome_jogador": "joao", "minuto_gol": 10},
-                                   {"nome_jogador": "jonas", "minuto_gol": 23},
-                                    {"nome_jogador": "abdul", "minuto_gol": 77},
-                                    {"nome_jogador": "abdul", "minuto_gol": 87},
-                                   {"nome_jogador": "abdul", "minuto_gol": 87}],
-      "autores_gols_time_visitante":[{"nome_jogador": "arias", "minuto_gol": 56},
-                                    {"nome_jogador": "quinteros", "minuto_gol": 90},
-                                    {"nome_jogador": "jimenez", "minuto_gol": 93},
-                                    {"nome_jogador": "jimenez", "minuto_gol": 94},
-                                    {"nome_jogador": "jimenez", "minuto_gol": 95},
-                                    {"nome_jogador": "jimenez", "minuto_gol": 96}]
+      "autores_gols_time_mandante":[],
+      "autores_gols_time_visitante":[
+                                    {"nome_jogador": "Enner Valencia", "minuto_gol": 17},
+                                    {"nome_jogador": "Enner Valencia", "minuto_gol": 30}]
     }
   },
   {
