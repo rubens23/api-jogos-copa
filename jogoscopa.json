@@ -44,13 +44,13 @@
       "nome": "Senegal",
       "posicao_ranking": 18,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/sn.webp",
-       "placar": 0
+       "placar": null
     },
     "visitante":{
       "nome": "Holanda",
       "posicao_ranking": 8,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/nl.webp",
-       "placar": 0
+       "placar": null
     },
      "jogo":{
       "autores_gols_time_mandante":[],
