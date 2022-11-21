@@ -72,7 +72,7 @@
       "nome": "Inglaterra",
       "posicao_ranking": 5,
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/255px-Flag_of_England.svg.png",
-       "placar": 1
+       "placar": 3
     },
     "visitante":{
       "nome": "Irã",
@@ -81,7 +81,9 @@
        "placar": 0
     },
      "jogo":{
-      "autores_gols_time_mandante":[{"nome_jogador": "Bellingham", "minuto_gol": 34}],
+      "autores_gols_time_mandante":[{"nome_jogador": "Bellingham", "minuto_gol": 34},
+                                   {"nome_jogador": "Saka", "minuto_gol": 42},
+                                   {"nome_jogador": "Sterling", "minuto_gol": 45}],
       "autores_gols_time_visitante":[{"nome_jogador": null, "minuto_gol": null}]
     }
   },
