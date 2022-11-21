@@ -72,13 +72,13 @@
       "nome": "Inglaterra",
       "posicao_ranking": 5,
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/255px-Flag_of_England.svg.png",
-       "placar": null
+       "placar": 0
     },
     "visitante":{
       "nome": "Irã",
       "posicao_ranking": 20,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/ir.webp",
-       "placar": null
+       "placar": 0
     },
      "jogo":{
       "autores_gols_time_mandante":[{"nome_jogador": null, "minuto_gol": null}],
