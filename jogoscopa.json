@@ -107,17 +107,17 @@
       "nome": "Estados Unidos",
       "posicao_ranking": 16,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/us.webp",
-       "placar": null
+       "placar": 1
     },
     "visitante":{
       "nome": "País de Gales",
       "posicao_ranking": 19,
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flag_of_Wales.svg/255px-Flag_of_Wales.svg.png",
-       "placar": null
+       "placar": 1
     },
      "jogo":{
-      "autores_gols_time_mandante":[{"nome_jogador": null, "minuto_gol": null}],
-      "autores_gols_time_visitante":[{"nome_jogador": null, "minuto_gol": null}]
+      "autores_gols_time_mandante":[{"nome_jogador": "Weah", "minuto_gol": "35"}],
+      "autores_gols_time_visitante":[{"nome_jogador": "Bale", "minuto_gol": "81"}]
     }
   },
   {
