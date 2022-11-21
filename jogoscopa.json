@@ -72,7 +72,7 @@
       "nome": "Inglaterra",
       "posicao_ranking": 5,
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/255px-Flag_of_England.svg.png",
-       "placar": 5
+       "placar": 6
     },
     "visitante":{
       "nome": "Irã",
@@ -85,7 +85,8 @@
                                    {"nome_jogador": "Saka", "minuto_gol": 42},
                                    {"nome_jogador": "Sterling", "minuto_gol": 45},
                                    {"nome_jogador": "Saka", "minuto_gol": 61},
-                                   {"nome_jogador": "Rashford", "minuto_gol": 70}],
+                                   {"nome_jogador": "Rashford", "minuto_gol": 70},
+                                   {"nome_jogador": "Grealish", "minuto_gol": 88}],
       "autores_gols_time_visitante":[{"nome_jogador": "Taremi", "minuto_gol": 64}]
     }
   },
