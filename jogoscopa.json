@@ -50,11 +50,12 @@
       "nome": "Holanda",
       "posicao_ranking": 8,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/nl.webp",
-       "placar": 0
+       "placar": 2
     },
      "jogo":{
       "autores_gols_time_mandante":[],
-      "autores_gols_time_visitante":[]
+      "autores_gols_time_visitante":[{"nome_jogador": "Gakpo", "minuto_gol": "83"},
+                                    {"nome_jogador": "Klaassen", "minuto_gol": "90+8"}]
     }
   },
   {
