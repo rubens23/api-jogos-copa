@@ -25,8 +25,8 @@
     "jogo":{     
       "autores_gols_time_mandante":[],
       "autores_gols_time_visitante":[
-                                    {"nome_jogador": "Enner Valencia", "minuto_gol": 17},
-                                    {"nome_jogador": "Enner Valencia", "minuto_gol": 30}]
+                                    {"nome_jogador": "Enner Valencia", "minuto_gol": "17"},
+                                    {"nome_jogador": "Enner Valencia", "minuto_gol": "30"}]
     }
   },
   {
@@ -81,13 +81,14 @@
        "placar": 1
     },
      "jogo":{
-      "autores_gols_time_mandante":[{"nome_jogador": "Bellingham", "minuto_gol": 34},
-                                   {"nome_jogador": "Saka", "minuto_gol": 42},
-                                   {"nome_jogador": "Sterling", "minuto_gol": 45},
-                                   {"nome_jogador": "Saka", "minuto_gol": 61},
-                                   {"nome_jogador": "Rashford", "minuto_gol": 70},
-                                   {"nome_jogador": "Grealish", "minuto_gol": 88}],
-      "autores_gols_time_visitante":[{"nome_jogador": "Taremi", "minuto_gol": 64}]
+      "autores_gols_time_mandante":[{"nome_jogador": "Bellingham", "minuto_gol": "34"},
+                                   {"nome_jogador": "Saka", "minuto_gol": "42"},
+                                   {"nome_jogador": "Sterling", "minuto_gol": "45"},
+                                   {"nome_jogador": "Saka", "minuto_gol": "61"},
+                                   {"nome_jogador": "Rashford", "minuto_gol": "70"},
+                                   {"nome_jogador": "Grealish", "minuto_gol": "88"}],
+      "autores_gols_time_visitante":[{"nome_jogador": "Taremi", "minuto_gol": "64"},
+                                    {"nome_jogador": "Taremi", "minuto_gol": "90+12"}]
     }
   },
   {
