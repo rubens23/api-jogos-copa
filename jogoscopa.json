@@ -427,13 +427,13 @@
       "nome": "Uruguai",
       "posicao_ranking": 14,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/uy.webp",
-       "placar": null
+       "placar": 0
     },
     "visitante":{
       "nome": "Coreia do Sul",
       "posicao_ranking": 28,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/kr.webp",
-       "placar": null
+       "placar": 0
     },
      "jogo":{
       "autores_gols_time_mandante":[{"nome_jogador": null, "minuto_gol": null}],
@@ -455,17 +455,20 @@
       "nome": "Portugal",
       "posicao_ranking": 9,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/pt.webp",
-       "placar": null
+       "placar": 3
     },
     "visitante":{
       "nome": "Gana",
       "posicao_ranking": 61,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/gh.webp",
-       "placar": null
+       "placar": 2
     },
      "jogo":{
-      "autores_gols_time_mandante":[{"nome_jogador": null, "minuto_gol": null}],
-      "autores_gols_time_visitante":[{"nome_jogador": null, "minuto_gol": null}]
+      "autores_gols_time_mandante":[{"nome_jogador": "Cristiano Ronaldo", "minuto_gol": "64"},
+                                   {"nome_jogador": "João Félix", "minuto_gol": "77"},
+                                   {"nome_jogador": "Rafael Leão", "minuto_gol": "79"}],
+      "autores_gols_time_visitante":[{"nome_jogador": "André Ayew", "minuto_gol": "72"},
+                                    {"nome_jogador": "Bukari", "minuto_gol": "88"}]
     }
   },
   {
