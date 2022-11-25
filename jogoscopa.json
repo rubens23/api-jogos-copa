@@ -135,17 +135,18 @@
       "nome": "Argentina",
       "posicao_ranking": 3,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/ar.webp",
-       "placar": null
+       "placar": 1
     },
     "visitante":{
       "nome": "Arábia Saudita",
       "posicao_ranking": 51,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/sa.webp",
-       "placar": null
+       "placar": 2
     },
      "jogo":{
-      "autores_gols_time_mandante":[{"nome_jogador": null, "minuto_gol": null}],
-      "autores_gols_time_visitante":[{"nome_jogador": null, "minuto_gol": null}]
+      "autores_gols_time_mandante":[{"nome_jogador": "Messi", "minuto_gol": "09"}],
+      "autores_gols_time_visitante":[{"nome_jogador": "Al-Shehri", "minuto_gol": "47"},
+                                    {"nome_jogador": "Salem Al-Dawasari", "minuto_gol": "52"}]
     }
   },
    {
@@ -163,13 +164,13 @@
       "nome": "México",
       "posicao_ranking": 13,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/mx.webp",
-       "placar": null
+       "placar": 0
     },
     "visitante":{
       "nome": "Polônia",
       "posicao_ranking": 26,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/pl.webp",
-       "placar": null
+       "placar": 0
     },
      "jogo":{
       "autores_gols_time_mandante":[{"nome_jogador": null, "minuto_gol": null}],
@@ -191,13 +192,13 @@
       "nome": "Dinamarca",
       "posicao_ranking": 10,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/dk.webp",
-       "placar": null
+       "placar": 0
     },
     "visitante":{
       "nome": "Tunísia",
       "posicao_ranking": 30,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/tn.webp",
-       "placar": null
+       "placar": 0
     },
      "jogo":{
       "autores_gols_time_mandante":[{"nome_jogador": null, "minuto_gol": null}],
@@ -219,17 +220,20 @@
       "nome": "França",
       "posicao_ranking": 4,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/fr.webp",
-       "placar": null
+       "placar": 4
     },
     "visitante":{
       "nome": "Austrália",
       "posicao_ranking": 38,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/au.webp",
-       "placar": null
+       "placar": 1
     },
      "jogo":{
-      "autores_gols_time_mandante":[{"nome_jogador": null, "minuto_gol": null}],
-      "autores_gols_time_visitante":[{"nome_jogador": null, "minuto_gol": null}]
+      "autores_gols_time_mandante":[{"nome_jogador": "Rabiot", "minuto_gol": "26"},
+                                   {"nome_jogador": "Giroud", "minuto_gol": "31"},
+                                   {"nome_jogador": "Mbappé", "minuto_gol": "67"},
+                                   {"nome_jogador": "Giroud", "minuto_gol": "70"}],
+      "autores_gols_time_visitante":[{"nome_jogador": "Goodwin", "minuto_gol": "08"}]
     }
   },
   {
@@ -247,17 +251,18 @@
       "nome": "Alemanha",
       "posicao_ranking": 11,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/de.webp",
-       "placar": null
+       "placar": 1
     },
     "visitante":{
       "nome": "Japão",
       "posicao_ranking": 24,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/jp.webp",
-       "placar": null
+       "placar": 2
     },
      "jogo":{
-      "autores_gols_time_mandante":[{"nome_jogador": null, "minuto_gol": null}],
-      "autores_gols_time_visitante":[{"nome_jogador": null, "minuto_gol": null}]
+      "autores_gols_time_mandante":[{"nome_jogador": "Gundogan", "minuto_gol": "32"}],
+      "autores_gols_time_visitante":[{"nome_jogador": "Doan", "minuto_gol": "74"},
+                                    {"nome_jogador": "Asano", "minuto_gol": "82"}]
     }
   },
     {
@@ -275,16 +280,22 @@
       "nome": "Espanha",
       "posicao_ranking": 7,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/es.webp",
-       "placar": null
+       "placar": 7
     },
     "visitante":{
       "nome": "Costa Rica",
       "posicao_ranking": 31,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/cr.webp",
-       "placar": null
+       "placar": 0
     },
      "jogo":{
-      "autores_gols_time_mandante":[{"nome_jogador": null, "minuto_gol": null}],
+      "autores_gols_time_mandante":[{"nome_jogador": "Dani Olmo", "minuto_gol": "10"},
+                                   {"nome_jogador": "Asensio", "minuto_gol": "20"},
+                                   {"nome_jogador": "Ferrán Torres", "minuto_gol": "30"},
+                                   {"nome_jogador": "Ferrán Torres", "minuto_gol": "53"},
+                                   {"nome_jogador": "Gavi", "minuto_gol": "74"},
+                                   {"nome_jogador": "Soler", "minuto_gol": "89"},
+                                   {"nome_jogador": "Morata", "minuto_gol": "45+2"}],
       "autores_gols_time_visitante":[{"nome_jogador": null, "minuto_gol": null}]
     }
   },
@@ -303,13 +314,13 @@
       "nome": "Marrocos",
       "posicao_ranking": 22,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/ma.webp",
-       "placar": null
+       "placar": 0
     },
     "visitante":{
       "nome": "Croácia",
       "posicao_ranking": 12,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/hr.webp",
-       "placar": null
+       "placar": 0
     },
      "jogo":{
       "autores_gols_time_mandante":[{"nome_jogador": null, "minuto_gol": null}],
@@ -331,16 +342,16 @@
       "nome": "Bélgica",
       "posicao_ranking": 2,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/be.webp",
-       "placar": null
+       "placar": 1
     },
     "visitante":{
       "nome": "Canadá",
       "posicao_ranking": 41,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/ca.webp",
-       "placar": null
+       "placar": 0
     },
      "jogo":{
-      "autores_gols_time_mandante":[{"nome_jogador": null, "minuto_gol": null}],
+      "autores_gols_time_mandante":[{"nome_jogador": "Batshuayi", "minuto_gol": "43"}],
       "autores_gols_time_visitante":[{"nome_jogador": null, "minuto_gol": null}]
     }
   },
@@ -359,16 +370,16 @@
       "nome": "Suíça",
       "posicao_ranking": 15,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/ch.webp",
-       "placar": null
+       "placar": 1
     },
     "visitante":{
       "nome": "Camarões",
       "posicao_ranking": 43,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/cm.webp",
-       "placar": null
+       "placar": 0
     },
      "jogo":{
-      "autores_gols_time_mandante":[{"nome_jogador": null, "minuto_gol": null}],
+      "autores_gols_time_mandante":[{"nome_jogador": "Embolo", "minuto_gol": "47"}],
       "autores_gols_time_visitante":[{"nome_jogador": null, "minuto_gol": null}]
     }
   },
@@ -387,16 +398,17 @@
       "nome": "Brasil",
       "posicao_ranking": 1,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/br.webp",
-       "placar": null
+       "placar": 2
     },
     "visitante":{
       "nome": "Sérvia",
       "posicao_ranking": 21,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/w580/rs.webp",
-       "placar": null
+       "placar": 0
     },
      "jogo":{
-      "autores_gols_time_mandante":[{"nome_jogador": null, "minuto_gol": null}],
+      "autores_gols_time_mandante":[{"nome_jogador": "Richarlison", "minuto_gol": "61"},
+                                   {"nome_jogador": "Richarlison", "minuto_gol": "72"}],
       "autores_gols_time_visitante":[{"nome_jogador": null, "minuto_gol": null}]
     }
   },
